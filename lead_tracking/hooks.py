@@ -83,7 +83,7 @@ app_license = "mit"
 # ------------
 
 # before_install = "lead_tracking.install.before_install"
-# after_install = "lead_tracking.install.after_install"
+after_install = "lead_tracking.install_config.install.after_install"
 
 # Uninstallation
 # ------------

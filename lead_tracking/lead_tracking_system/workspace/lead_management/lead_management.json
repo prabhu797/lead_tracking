@@ -1,0 +1,46 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"P4ZBN7HgUb\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Leads Management</span>\",\"col\":12}},{\"id\":\"JvQlb07Ydp\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Cold Calling\",\"col\":4}},{\"id\":\"Ir7CEI2kBz\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Lead\",\"col\":4}},{\"id\":\"HXL_vwOwJa\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Register\",\"col\":4}},{\"id\":\"LAtCRzeb6G\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Customer\",\"col\":4}}]",
+ "creation": "2025-03-12 12:56:48.982578",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "map",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Lead Management",
+ "links": [],
+ "modified": "2025-03-12 13:05:59.952663",
+ "modified_by": "Administrator",
+ "module": "Lead Tracking System",
+ "name": "Lead Management",
+ "number_cards": [
+  {
+   "label": "Cold Calling",
+   "number_card_name": "Cold Calling"
+  },
+  {
+   "label": "Lead",
+   "number_card_name": "Lead"
+  },
+  {
+   "label": "Register",
+   "number_card_name": "Register"
+  },
+  {
+   "label": "Customer",
+   "number_card_name": "Customer"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 28.0,
+ "shortcuts": [],
+ "title": "Lead Management"
+}
