@@ -88,7 +88,7 @@ after_install = "lead_tracking.install_config.install.after_install"
 # Uninstallation
 # ------------
 
-# before_uninstall = "lead_tracking.uninstall.before_uninstall"
+before_uninstall = "lead_tracking.uninstall_config.uninstall.before_uninstall"
 # after_uninstall = "lead_tracking.uninstall.after_uninstall"
 
 # Integration Setup
