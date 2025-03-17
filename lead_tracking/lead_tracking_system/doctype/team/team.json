@@ -10,7 +10,7 @@
   "team_type",
   "column_break_apsl",
   "team_leader",
-  "users"
+  "team_members"
  ],
  "fields": [
   {
@@ -38,15 +38,15 @@
    "options": "User"
   },
   {
-   "fieldname": "users",
+   "fieldname": "team_members",
    "fieldtype": "Table",
-   "label": "Users",
+   "label": "Team Members",
    "options": "Team Members"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-03-12 10:40:12.936964",
+ "modified": "2025-03-17 15:01:50.488258",
  "modified_by": "Administrator",
  "module": "Lead Tracking System",
  "name": "Team",
